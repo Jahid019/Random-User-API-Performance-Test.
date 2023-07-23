@@ -10,7 +10,6 @@ Breakdown the expected TPS in excel sheet and find out the actual TPS (10)
 
 ## Server API URL:
 - URL:  https://random-data-api.com/api/v2/users
-- 
 ## Technology Used
 - Jmeter
 - VS Code
